@@ -43,6 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes,Metodos,Atributos e Membros estáticos\Calculadora\Calculadora.cs" />
+    <Compile Include="Classes,Metodos,Atributos e Membros estáticos\Classes_Metodos_Atributos_StaticMembers.cs" />
+    <Compile Include="Classes,Metodos,Atributos e Membros estáticos\Cotacao\Cotacao.cs" />
+    <Compile Include="Classes,Metodos,Atributos e Membros estáticos\Escola\Escola.cs" />
+    <Compile Include="Classes,Metodos,Atributos e Membros estáticos\Funcionario\Funcionario.cs" />
+    <Compile Include="Classes,Metodos,Atributos e Membros estáticos\Produto\Produto.cs" />
+    <Compile Include="Classes,Metodos,Atributos e Membros estáticos\Retangulo\retangulo.cs" />
+    <Compile Include="RecapitulacaoLogica\RecapitulacaoLogica.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
